@@ -1,0 +1,238 @@
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.dll.config
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.pdb
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\WebGrease.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.pdb
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.dll
+C:\Users\ToanTam\Desktop\DuAn\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.pdb
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.dll.config
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.pdb
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\EntityFramework.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\WebGrease.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.pdb
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\EntityFramework.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.dll
+C:\Users\My PC\Desktop\DuAn\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.pdb
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.dll.config
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.pdb
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\fashion.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\WebGrease.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\fashion.pdb
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.dll
+C:\Users\Administrator\Desktop\DuAn1\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.pdb
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.dll.config
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.Tests.pdb
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Helpers.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Mvc.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Razor.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\EntityFramework.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Optimization.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\WebGrease.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\Antlr3.Runtime.dll
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\fashion.pdb
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Helpers.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Mvc.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.Razor.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\EntityFramework.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\DuAn\www\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+E:\DuAn\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.csprojResolveAssemblyReference.cache
+E:\DuAn\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.dll
+E:\DuAn\www\fashion\fashion.Tests\obj\Debug\fashion.Tests.pdb
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\fashion.Tests.dll.config
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\fashion.Tests.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\fashion.Tests.pdb
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\fashion.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.Helpers.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.Http.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.Mvc.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.Razor.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\EntityFramework.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.Optimization.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\WebGrease.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\fashion.pdb
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.Helpers.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.Http.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.Mvc.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.Razor.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\EntityFramework.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\TaiLieuKhac\fashion\fashion.Tests\obj\Debug\fashion.Tests.csprojResolveAssemblyReference.cache
+D:\TaiLieuKhac\fashion\fashion.Tests\obj\Debug\fashion.Tests.dll
+D:\TaiLieuKhac\fashion\fashion.Tests\obj\Debug\fashion.Tests.pdb
